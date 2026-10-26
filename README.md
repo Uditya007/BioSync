@@ -10,6 +10,12 @@
 [![Privacy First](https://img.shields.io/badge/Privacy-100%25%20On--Device-brightgreen?style=flat-square)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
+<br/>
+
+<img src="assets/biosync_preview.jpg" alt="BioSync Apple Watch & iPhone App UI" width="100%" style="border-radius: 12px;" />
+
+<br/>
+
 **BioSync is a privacy-first, zero-subscription alternative to WHOOP, Oura, and proprietary fitness trackers.**  
 By unlocking the optical PPG sensors, accelerometer telemetry, and sleep stages of your Apple Watch and iPhone, BioSync gives you clinical-grade physiological analytics, real-time biological longevity calculations, and custom watch face complications — entirely for free.
 
